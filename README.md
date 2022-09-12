@@ -1,3 +1,9 @@
-# Šis ir mans pirmais GIT repozitorijs
-## Šī ir versija divi, kas atrodas tikai otrajā zarā
-Šis tiks papildināts vēlāk
+# Latvia
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+- George Washington
+- John Adams
+- Thomas Jefferson
+
+## The second largest heading
